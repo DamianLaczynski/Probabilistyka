@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Probabilistyka.cpp">
+    <ClCompile Include="permutacja.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
